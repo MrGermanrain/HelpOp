@@ -1,0 +1,12 @@
+#This is a config.
+#Note: Use %player% for the player's name.
+#Note: Use %message% for the message sent by the player.
+#Note: Use %prefix% for the message sent by the player.
+
+HelpOpMessage: "%prefix% &c%player%: %message%"
+ConfirmSent: "%prefix% &aYour message has been sent!"
+NoStaffOnline: "%prefix% &cThere are no staff currently online."
+WrongSyntax: "%prefix% &cIncorrect Syntax! &aPlease use: /helpop <message>"
+NoPermission: "%prefix% &cYou do not have permission to reload the plugin."
+ReloadComplete: "%prefix% &aReload Complete!"
+Prefix: "&6[&2HelpOp&6]"

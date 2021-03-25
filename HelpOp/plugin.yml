@@ -1,0 +1,11 @@
+name: HelpOp
+main: me.MrGermanrain.JavaPlugin.HelpOp
+version: 1.0
+api-version: 1.16
+description: This plugin helps staff!
+author: Finnley
+commands:
+  helpop:
+    desription: Use this in order to get help!
+    usage: /helpop
+    aliases: [helpme]
